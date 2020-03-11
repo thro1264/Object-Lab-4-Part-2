@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: Dodgerblue;
+}
+h1{
+  color: white;
+  font-family: 'helvetica', sans-serif;
+  text-align: center;
+  margin-top: 250px;
+  font-size: 120px;
+}
